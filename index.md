@@ -2,9 +2,6 @@
 
 ## Parfumeur
 
-<details>
-    <summary>Voir plus</summary>
-
 ### AEM
 
 N/A
@@ -28,12 +25,7 @@ zh_HK : :white_check_mark:
 zh_TW : :white_check_mark:  
 vi_VN : :white_check_mark:
 
-</details>
-
 ## Beyond the jar
-
-<details>
-    <summary>Voir plus</summary>
 
 ### AEM
 
@@ -79,5 +71,3 @@ N/A
 #### APAC
 
 N/A
-
-</details>
